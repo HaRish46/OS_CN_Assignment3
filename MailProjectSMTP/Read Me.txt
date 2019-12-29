@@ -1,0 +1,3 @@
+SMTP implementation using JAVAMAIL
+1602-17-737-004
+1602-17-737-052
